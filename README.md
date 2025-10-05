@@ -4,7 +4,7 @@ Deep learning-based automated waste classification system using Convolutional Ne
 # ♻️ TrashSort AI – Automated Waste Classification
 
 A deep learning project that classifies household waste images into six categories using a **Convolutional Neural Network (CNN)**.  
-Built and trained on the [TrashNet dataset](https://github.com/garythung/trashnet), this model assists in automating waste sorting and promoting recycling awareness.
+Built and trained on the [TrashNet dataset](https://github.com/garythung/trashnet.git), this model assists in automating waste sorting and promoting recycling awareness.
 
 ---
 
